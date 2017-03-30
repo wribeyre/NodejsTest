@@ -1,0 +1,20 @@
+{
+  "name": "node-example",
+  "version": "1.0.0",
+  "description": "Node example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "example"
+  ],
+  "author": "William Ribeyre",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  }
+}
